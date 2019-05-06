@@ -1,3 +1,10 @@
+### Class Componentベースの実装
+https://github.com/thinceller/react-typescript-todo/tree/with_class_component
+### Functional Component & React Hooksベースの実装
+https://github.com/thinceller/react-typescript-todo/tree/with_react_hooks
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
