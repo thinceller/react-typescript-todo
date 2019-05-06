@@ -1,0 +1,41 @@
+.TodoApp {
+  margin: 20px auto 0px;
+  width: 250px;
+  background: #eee;
+  border: solid 1px #ddd;
+}
+
+.title {
+  text-align: center;
+  margin: 10px;
+  background: #02256a;
+  color: #fff;
+  font: bold;
+}
+
+.TodoList {
+  margin: 10px;
+  text-align: left;
+  list-style: disc;
+}
+
+/* リストのアイテムの折返し表示 */
+.TodoItem {
+  margin-bottom: 5px;
+  word-wrap: break-word;
+}
+
+.TodoForm {
+  margin: 20px;
+}
+
+.TodoInput {
+  height: 20px;
+}
+
+.TodoBtn {
+  margin-left: 10px;
+  width: 50px;
+  height: 24px;
+  background: #ccc;
+}
